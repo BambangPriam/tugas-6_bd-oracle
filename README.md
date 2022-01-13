@@ -2,7 +2,8 @@
 
 Buat trigger
 
-![Uploading grabilla.em8260.png…]()
+![grabilla em8260](https://user-images.githubusercontent.com/45525619/149327903-d1baa8f2-cbca-4737-8059-dd3e54275c79.png)
+
 
 
 Buat insert data
